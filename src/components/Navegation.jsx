@@ -6,9 +6,7 @@ function Navegation() {
         <div>
            
             <nav id="navbar" className="navbar navbar-expand-lg navbar-dark navbar-custom navbar-perz">
-            <img src={xs} alt="" className="navbar-brand img-circle" />
-             
-            
+            <img src={xs} alt="" className="navbar-brand img-circle" />      
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>

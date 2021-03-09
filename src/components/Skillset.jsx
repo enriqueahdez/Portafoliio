@@ -25,60 +25,57 @@ function Skillset() {
                         <hr className="hr-skills"></hr>
                     </div>
                 </div>
+
                 <div className="row">
-                     <div className="col-lg-4  col-sm-12">
+                     <div className="col-lg-4  col-sm-6">
                         <img src={html} alt="HTML5" className="img-responsive center" data-tip data-for="html" />
                         <ReactTooltip id="html" place="top" effect="solid">
                             HTML5
                         </ReactTooltip>
                     </div>
-                    <div className="col-lg-4  col-sm-12">
+                    <div className="col-lg-4  col-sm-6">
                         <img src={css} alt="CSS3" className="img-responsive center" data-tip data-for="css3" />
                         <ReactTooltip id="css3" place="top" effect="solid">
                             CSS3
                         </ReactTooltip>
                     </div>
-                    <div className="col-lg-4  col-sm-12">
+                    <div className="col-lg-4  col-sm-6">
                         <img src={js} alt="JS" className="img-responsive center" data-tip data-for="js" />
                         <ReactTooltip id="js" place="top" effect="solid">
                             JavaScript (ES6)
                         </ReactTooltip>
                     </div>
-                </div>
-                <div className="row">
-                    <div className="col-lg-4  col-sm-12">
+                    <div className="col-lg-4  col-sm-6">
                         <img src={bootstrap} alt="bootstrap" className="img-responsive center" data-tip data-for="bootstrap" />
                         <ReactTooltip id="bootstrap" place="top" effect="solid">
                             Bootstrap
                         </ReactTooltip>
                     </div>
-                    <div className="col-lg-4  col-sm-12">
+                    <div className="col-lg-4  col-sm-6">
                         <img src={jquery} alt="jquery" className="img-responsive center" data-tip data-for="jquery" />
                         <ReactTooltip id="jquery" place="top" effect="solid">
                             JQuery
                         </ReactTooltip>
                     </div>
-                    <div className="col-lg-4  col-sm-12">
+                    <div className="col-lg-4  col-sm-6">
                         <img src={react} alt="react" className="img-responsive center" data-tip data-for="react" />
                         <ReactTooltip id="react" place="top" effect="solid">
                             React
                         </ReactTooltip>
                     </div>
-                </div>
-                <div className="row">
-                    <div className="col-lg-4  col-sm-12">
+                    <div className="col-lg-4  col-sm-6">
                         <img src={node} alt="node" className="img-responsive center" data-tip data-for="node" />
                         <ReactTooltip id="node" place="top" effect="solid">
                             NodeJS & Express
                         </ReactTooltip>
                     </div>
-                    <div className="col-lg-4  col-sm-12">
+                    <div className="col-lg-4  col-sm-6">
                         <img src={git} alt="git" className="img-responsive center" data-tip data-for="git" />
                         <ReactTooltip id="git" place="top" effect="solid">
                             Git, GitLab & GitHUb
                         </ReactTooltip>
                     </div>
-                    <div className="col-lg-4  col-sm-12">
+                    <div className="col-lg-4  col-sm-6">
                         <img src={mongo} alt="mongo" className="img-responsive center" data-tip data-for="mongo" />
                         <ReactTooltip id="mongo" place="top" effect="solid">
                             MongoDB
